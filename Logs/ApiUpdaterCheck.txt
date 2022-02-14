@@ -1,0 +1,90 @@
+[api-updater (non-obsolete-error-filter)] 1/10/2022 12:50:56 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 598.52ms
+moved types parse time: 109ms
+candidates parse time : 1ms
+C# parse time         : 449ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/10/2022 3:04:53 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 468.324ms
+moved types parse time: 117ms
+candidates parse time : 1ms
+C# parse time         : 474ms
+candidates check time : 49ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/11/2022 3:50:10 AM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 528.834ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 404ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/11/2022 4:06:04 AM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 65.055ms
+moved types parse time: 105ms
+candidates parse time : 3ms
+C# parse time         : 244ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/13/2022 3:26:40 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 538.782ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 468ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/13/2022 4:13:28 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.129ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 224ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/13/2022 4:17:03 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.012ms
+moved types parse time: 71ms
+candidates parse time : 2ms
+C# parse time         : 237ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/14/2022 12:53:29 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 586.157ms
+moved types parse time: 116ms
+candidates parse time : 1ms
+C# parse time         : 482ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/14/2022 12:55:26 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73.715ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 278ms
+candidates check time : 71ms
+console write time    : 0ms
+
